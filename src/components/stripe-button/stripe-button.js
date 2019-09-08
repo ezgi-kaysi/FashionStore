@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
       name='Fashion Store Ltd.'
       billingAddress
       shippingAddress
-      image='../../assets/logo.png'
+      image='https://fashion-store-live.herokuapp.com/logo.png'
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel='Pay Now'
