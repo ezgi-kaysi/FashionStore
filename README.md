@@ -1,3 +1,6 @@
+# FashionStore
+It is an e-commerce project. Developed by using React and Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
